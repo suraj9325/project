@@ -48,15 +48,6 @@ button a{
 }
 
 
-
-/* Universal End*/
-/* <!-- -- 
-----
-------
---------
------------ --> */
-/* <!-- Nav Section Start --> */
-
  .navBar{
     position: sticky;
     top: 0;
@@ -106,15 +97,6 @@ button a{
 }
 
 
-/* <!-- Nav Section End --> */
- /* <!-- -- 
-----
-------
---------
------------ -- !> */
-/* Welcome Section Start */
-
-
 
 .welcomeMain{
     display: flex;
@@ -158,13 +140,6 @@ button a{
 
 
 
-/* Welcome Section End */
- /* <!-- -- 
-----
-------
---------
------------ -- !> */
-/* About Section Start */
 
 section.about{
     background-image: url('../img/7.png');
@@ -213,25 +188,6 @@ section.about{
 
 
 
-
-/* About Section End */
- /* <!-- -- 
-----
-------
---------
------------ -- !> */
-/* Recipies Section Start */
-
-/* Recipies Section End */
- /* <!-- -- 
-----
-------
---------
------------ -- !> */
-/* Status Bar Start */
-
-
-/* footer Start */
 section.footer{
     background-color: #111;
     margin-top: 5%;
@@ -249,4 +205,3 @@ section.footer{
     color: #fff;
     padding: 2% 0;
 }
-/* footer end */
